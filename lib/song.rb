@@ -1,4 +1,4 @@
-class 
+class  Song 
 
 
-end 
+end
